@@ -1,3 +1,6 @@
 [submodule "blog/themes/risotto"]
 	path = blog/themes/risotto
 	url = https://github.com/joeroe/risotto
+[submodule "public"]
+        path = blog/public
+        url = https://github.com/hackemon-fr/hackemon-fr.github.io
